@@ -6,7 +6,7 @@
 
 int main()
 {
-   /* test purpose only */
+   /* test purpose only question */
 	return 0;
 }
 
